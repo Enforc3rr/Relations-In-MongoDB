@@ -1,0 +1,1 @@
+A small node js application which explains how to make established different relations in mongodb using mongoose ( made for future reference )
